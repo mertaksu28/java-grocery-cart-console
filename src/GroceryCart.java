@@ -13,7 +13,7 @@ public class GroceryCart {
             System.out.println("2- Show Basket");
             System.out.println("3- Search Product");
             System.out.println("4- Quit");
-            System.out.print("Please make a selection.: ");
+            System.out.print("Please make a selection: ");
 
             int choose = scanner.nextInt();
 

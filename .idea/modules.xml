@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GroceryShoppingCartApplication.iml" filepath="$PROJECT_DIR$/GroceryShoppingCartApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GroceryCartApplication.iml" filepath="$PROJECT_DIR$/GroceryCartApplication.iml" />
     </modules>
   </component>
 </project>
