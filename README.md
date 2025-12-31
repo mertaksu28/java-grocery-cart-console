@@ -13,7 +13,10 @@ such as arrays, loops, methods, and user input handling.
 - Search products by name (partial match supported)
 - Limit of 5 products (array-based design)
 - Case-insensitive product search
+## Sample Console Output
 
+![Console Output](images/console-output.png)
+![Console Output](images/show-basket.png)
 ---
 
 ## Technologies Used
